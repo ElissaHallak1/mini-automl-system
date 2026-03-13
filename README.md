@@ -1,9 +1,9 @@
 # mini-automl-system
 
-### Project overview
+### Opis projektu
 Projekt stanowi uproszczony system AutoML dedykowany do klasyfikacji binarnej na danych tabelarycznych. Głównym celem pracy było stworzenie stabilnego systemu, który automatycznie wybiera optymalne modele oraz wykorzystuje techniki ensemblingu do poprawy jakości predykcji.
 
-### Key features
+### Kluczowe funkcjonalności
 Model screening: portfolio 50 zróżnicowanych konfiguracji modeli.
 Zautomatyzowany pipeline: automatyczna obsługa braków danych, skalowanie oraz kodowanie zmiennych kategorycznych.
 Selekcja: wybór top-5 modeli na podstawie 5-krotnej walidacji krzyżowej z metryką balanced accuracy.
