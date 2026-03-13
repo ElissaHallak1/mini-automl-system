@@ -25,6 +25,6 @@ Sercem systemu jest klasa MiniAutoML, która automatyzuje cykl życia modelu kla
 * Raport_mini_automl: pełny raport z projektu
 * .figures/: wizualizacja eksperymentu, w tym częstość wyboru modeli
 
-## Autorzy: Elissa Hallak, Liwia Jankowska, Julia Tomaszkiewicz 
-## Data: Styczeń 2026
+### Autorzy: Elissa Hallak, Liwia Jankowska, Julia Tomaszkiewicz 
+### Data: Styczeń 2026
 
